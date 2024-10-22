@@ -1,4 +1,9 @@
 .foto {width: 50%;
 }
 
-.body{background-color: black; color: aqua;text-align: center;padding: 2px;}
+.body{background-color: black; color: aqua;text-align: center;padding: 2px;
+font-size: 6px;}
+
+.personagem{width: 80%;
+
+}
